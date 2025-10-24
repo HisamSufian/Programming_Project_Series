@@ -28,7 +28,7 @@ matplotlib
 ```bash
 python task_1_gcse.py
 ```
-
+Optional: You can run it in Google Colab or Jupyter by only runinng the file *task_1_gcsc.py*
 ---
 
 ## 🧠 Algorithm Steps
