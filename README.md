@@ -1,4 +1,4 @@
-# 🚀 Python Programming Project — by Sufian
+# 🚀 Python Programming Project
 
 ---
 
