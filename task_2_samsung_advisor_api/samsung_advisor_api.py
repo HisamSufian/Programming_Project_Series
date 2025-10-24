@@ -32,7 +32,7 @@ app = FastAPI(
 # ======================================================
 # 2️⃣ Database Connection
 # ======================================================
-DATABASE_URL = "postgresql+psycopg2://postgres:12345@localhost/samsungdb"
+DATABASE_URL = "postgresql+psycopg2://postgres:password@localhost/samsungdb" 
 engine = create_engine(DATABASE_URL)
 
 # ======================================================
