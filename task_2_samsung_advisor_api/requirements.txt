@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2
+pandas
+sentence-transformers==2.7.0
+transformers==4.41.0
+torch==2.2.2+cpu
+huggingface-hub
+selenium
+requests
+beautifulsoup4
