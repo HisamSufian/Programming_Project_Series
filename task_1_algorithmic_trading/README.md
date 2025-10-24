@@ -60,6 +60,8 @@ Profit Percentage: 133.23%
 
 ## 📊 Visualization 
 The script plots closing price with 50 / 200 moving averages and trade markers for buy/sell signals.
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/846d9977-46b2-4b33-a0ac-e135e67937d8" />
+
 
 ---
 
