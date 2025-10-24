@@ -1,4 +1,4 @@
-# 🚀 Programming Project — by Sufian
+# 🚀 Python Programming Project — by Sufian
 
 ---
 
@@ -44,7 +44,7 @@ Then open: http://127.0.0.1:8000/docs
 
 ---
 📂 Folder Structure
-Programming_Project_Series/
+Python_Programming_Task/
  ├── task_1_algorithmic_trading/
  ├── task_2_samsung_advisor_api/
  └── README.md
