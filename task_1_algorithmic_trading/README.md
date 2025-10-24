@@ -3,10 +3,10 @@
 ---
 
 ## 📘 Project Overview
-*Implements a Golden Cross trading strategy using real stock data from Yahoo Finance.
-*Developed with a modular, class-based approach in Python.
-*Includes data acquisition, cleaning, strategy logic, trade execution, visualization, and performance evaluation.
-*Successfully identifies buy/sell signals, calculates profits, and plots equity curves.
+* Implements a Golden Cross trading strategy using real stock data from Yahoo Finance.
+* Developed with a modular, class-based approach in Python.
+* Includes data acquisition, cleaning, strategy logic, trade execution, visualization, and performance evaluation.
+* Successfully identifies buy/sell signals, calculates profits, and plots equity curves.
 
 ---
 
