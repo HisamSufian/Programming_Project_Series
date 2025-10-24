@@ -15,7 +15,7 @@ df = pd.read_csv(r"C:\Users\hp\Desktop\samsung_phones.csv")  # change path if ne
 
 # ✅ PostgreSQL connection details
 USER = "postgres"
-PASSWORD = "12345"   # replace with your actual password
+PASSWORD = "@@@@@"   # replace with your actual password
 HOST = "localhost"
 DBNAME = "samsungdb"
 
