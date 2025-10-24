@@ -3,9 +3,10 @@
 ---
 
 ## 📘 Project Overview
-This project simulates a simple **Golden-Cross Trading Strategy** using Python and historical stock data fetched via `yfinance`.  
-The algorithm automatically buys when a *Golden Cross* occurs (50-day MA > 200-day MA) and sells when a *Death Cross* occurs.  
-It starts with **$5000 capital** and reports the final profit / loss.
+*Implements a Golden Cross trading strategy using real stock data from Yahoo Finance.
+*Developed with a modular, class-based approach in Python.
+*Includes data acquisition, cleaning, strategy logic, trade execution, visualization, and performance evaluation.
+*Successfully identifies buy/sell signals, calculates profits, and plots equity curves.
 
 ---
 
